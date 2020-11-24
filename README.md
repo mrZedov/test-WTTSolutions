@@ -26,14 +26,14 @@ Get() http://localhost:3000/employees
 В ответе будет удаленный элемент
 
 Реквизиты записи сотрудника:
-    firstName: string;
-    lastName: string;
-    login: string;
-    workPhone: string;
-    personalPhone: string;
-    workEmail: string;
-    personalEmail: string;
-    company: string;
-    businessLocation: string;
-    role: string;
-    hourlyRate: number;
+-    firstName: string;
+-    lastName: string;
+-    login: string;
+-    workPhone: string;
+-    personalPhone: string;
+-    workEmail: string;
+-    personalEmail: string;
+-    company: string;
+-    businessLocation: string;
+-    role: string;
+-    hourlyRate: number;
